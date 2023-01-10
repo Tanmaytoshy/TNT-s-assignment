@@ -31,6 +31,7 @@ h1{margin-top: -60px;
 }
 p.headp{
    margin-top:0px;
+   color: #1D214E;
 }
 ul#btns{
     display:flex;
@@ -446,8 +447,7 @@ li.service-item{
  }
 ul#inner-list li{
     list-style: none;
-    padding-bottom:0px;
-   padding-top:0px;
+
 }
 
  .section4-radio{
